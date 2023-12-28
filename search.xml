@@ -4,27 +4,25 @@
   
     
     <entry>
-      <title>「春好桃夭」皮肤展示</title>
-      <link href="/2023/12/18/%E6%98%A5%E5%A5%BD%E6%A1%83%E5%A4%AD%E7%9A%AE%E8%82%A4%E5%B1%95%E7%A4%BA/"/>
-      <url>/2023/12/18/%E6%98%A5%E5%A5%BD%E6%A1%83%E5%A4%AD%E7%9A%AE%E8%82%A4%E5%B1%95%E7%A4%BA/</url>
+      <title>开发历程</title>
+      <link href="/2023/12/28/%E5%BC%80%E5%8F%91%E5%8E%86%E7%A8%8B/"/>
+      <url>/2023/12/28/%E5%BC%80%E5%8F%91%E5%8E%86%E7%A8%8B/</url>
       
-        <content type="html"><![CDATA[<p align="center"><strong style="font-weight:900;">雪消寒轻风复暄，院落楼台草色添。</strong></p><p align="center"><strong style="font-weight:900;">休说好景无处寻，艳花高树展芳颜。</strong></p><p align="center"><strong style="font-weight:900;">粉瓣朵朵翻纸鸢，红蕊片片蝶争翩。</strong></p><p align="center"><strong style="font-weight:900;">夭夭灼灼凌日放，独占阳春百花羡。</strong></p><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/98220c9ece161b2c6a522d3cdcb16d41_1255599237451141703.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/e347686dd85488442ca0f334a0f0a565_339979997358675763.png?x-oss-process=image/auto-orient,0/interlace,1/format,png" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/c1d95d7bf5b96f2445a77139c1a851a6_8953374983576999683.png?x-oss-process=image/auto-orient,0/interlace,1/format,png" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/9ab0d51b434c332466bbe909b7af4007_3932018035792071915.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/3fd6120f7978a9968228d15238db098c_1714661045516468438.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/07c3fccc19d6f4cd3d3cc83128ee483a_6511832962736000384.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/61868511230a4b2c0fc62b1120f1eb25_6114499769304738958.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/36f67d613947ab1e313dad4f402b3b67_3690559708370597242.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/4177bc7525a05b1ad60124e3efb6a89c_4256976012258827175.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/>]]></content>
+        <content type="html"><![CDATA[<style>.timeline {  position: relative;  max-width: 900px;  margin: 0 auto;}.timeline::after {  content: '';  position: absolute;  width: 6px;  background-color: #6c757d;  top: 0;  bottom: 0;  left: 50%;  margin-left: -3px;}.container {  padding: 10px 40px;  position: relative;  background-color: inherit;  width: 50%;}.container::after {  content: '';  position: absolute;  width: 25px;  height: 25px;  right: -17px;  background-color: #6c757d;  border: 4px solid #6c757d;  top: 15px;  border-radius: 50%;  z-index: 1;}.left {  left: 0;}.right {  left: 50%;}.left::before {  content: " ";  height: 0;  position: absolute;  top: 22px;  width: 0;  z-index: 1;  right: 30px;  border: medium solid white;  border-width: 10px 0 10px 10px;  border-color: transparent transparent transparent white;}.right::before {  content: " ";  height: 0;  position: absolute;  top: 22px;  width: 0;  z-index: 1;  left: 30px;  border: medium solid white;  border-width: 10px 10px 10px 0;  border-color: transparent white transparent transparent;}.right::after {  left: -16px;}.content {  padding: 20px 30px;  background-color: white;  position: relative;  border-radius: 6px;}.content h2 {  font-size: 18px;}</style><div class="timeline"><div class="container left">  <div class="content">    <h2>2023-12-14: 搭建环境</h2>    <p>配置Nodejs等本地环境，下载博客框架</p>  </div></div><div class="container right">  <div class="content">    <h2>2023-12-16: 配置主题</h2>    <p>配置Chic主题，设置CSS美化背景</p>  </div></div>  <div class="container left">  <div class="content">    <h2>2023-12-17: 配置Git</h2>    <p>配置Git使网站连接至Github，并使用GitHub Pages实现线上访问</p>  </div></div><div class="container right">  <div class="content">    <h2>2023-12-19: 配置功能页</h2>    <p>配置Categories页面以及Tags页面实现文章分类</p>  </div></div><div class="container left">  <div class="content">    <h2>2023-12-21: 配置新主题</h2>    <p>更改主题为butterfly，重新进行CSS编写</p>  </div></div><div class="container right">  <div class="content">    <h2>2023-12-22: 导航栏配置</h2>    <p>配置Categories、Tags以及添加图库、短片页面</p>  </div></div><div class="container left">  <div class="content">    <h2>2023-12-23: 界面美化</h2>    <p>设置网页懒加载、配置背景、边栏</p>  </div></div><div class="container right">  <div class="content">    <h2>2023-12-24: 搭建评论区</h2>    <p>利用MongoDB、Vercel等平台搭建评论区，因没有域名所以无法使用国内网络进行评论（待解决）</p>  </div></div><div class="container left">  <div class="content">    <h2>2023-12-26: 功能实现</h2>    <p>配置图库页面、短片页面，内嵌iframe播放器实现外链视频的直接引入（bilibili）</p>  </div></div><div class="container right">  <div class="content">    <h2>2023-12-27: 网页优化</h2>    <p>将本地文件地址改为网页图片链接以实现较为快速的加载</p>  </div></div></div>]]></content>
       
       
       <categories>
           
-          <category> 爱莉希雅♪ </category>
+          <category> hexo </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 爱莉希雅 </tag>
+            <tag> hexo </tag>
             
-            <tag> 皮肤 </tag>
-            
-            <tag> 春好桃夭 </tag>
+            <tag> 码农时刻 </tag>
             
         </tags>
       
@@ -34,8 +32,8 @@
     
     <entry>
       <title>如何用hexo写一篇博客</title>
-      <link href="/2023/12/18/%E5%A6%82%E4%BD%95%E7%94%A8hexo%E5%86%99%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2023/12/18/%E5%A6%82%E4%BD%95%E7%94%A8hexo%E5%86%99%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      <link href="/2023/12/21/%E5%A6%82%E4%BD%95%E7%94%A8hexo%E5%86%99%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2023/12/21/%E5%A6%82%E4%BD%95%E7%94%A8hexo%E5%86%99%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
       
         <content type="html"><![CDATA[<h2 id="1-创建文件"><a href="#1-创建文件" class="headerlink" title="1. 创建文件"></a>1. 创建文件</h2><p>打开终端输入命令：<code>cd ~/myblog</code><br>请将<code>myblog</code>替换成你的博客主文件夹的实际路径，如下图：</p><img src="/images/如何用hexo写一篇博客/终端进入文件夹.png" width="500"><p>在出现<code>password</code>后输入密码，出现如下图所示即为创建成功  </p><img src="/images/如何用hexo写一篇博客/创建成功.png" width="500">  <h2 id="2-更改权限"><a href="#2-更改权限" class="headerlink" title="2. 更改权限"></a>2. 更改权限</h2><p>创建成功后可以在主文件夹的source&#x2F;_posts中找到新建markdown文档</p><img src="/images/如何用hexo写一篇博客/创建成功后的文档.png" width="300"><p>右键该文档，点击“显示简介”</p><img src="/images/如何用hexo写一篇博客/显示简介.png" width="300"><p>点击右下角小锁图标，使用Touch ID或者密码解锁，图标变成开锁后在下方staff栏右侧“只读”处更改为“读与写”</p><img src="/images/如何用hexo写一篇博客/改为读与写.png" width="300"><p>共享与权限下方出现“你可以读和写”即表示权限更改成功</p><h2 id="3-博客编辑"><a href="#3-博客编辑" class="headerlink" title="3. 博客编辑"></a>3. 博客编辑</h2><p>打开刚才生成的markdown文档，默认为如下界面</p><img src="/images/如何用hexo写一篇博客/初始默认界面.png" width="350"><p>我们可以随便编辑点内容<br>可以在tags后添加如下格式的内容：-tags（将tags换成你想要的tag）<br>可以添加categories，格式如下：categories：category（将category换成自己的内容）</p><img src="/images/如何用hexo写一篇博客/随便编辑.png" width="350"><h2 id="4-保存-发布"><a href="#4-保存-发布" class="headerlink" title="4. 保存&amp;发布"></a>4. 保存&amp;发布</h2><p>按下command+s保存markdown文件，进入终端，依次执行<br><code>sudo hexo g</code><br><code>sudo hexo s</code><br>第一条命令用于文件保存以及页面生成，第二条用于本地服务器运行，若有以下输出则表示成功</p><img src="/images/如何用hexo写一篇博客/保存运行.png" width="400"><p>打开终端输出的端口，通常为  <code>http://localhost:4000/</code><br>检查博客是否载入</p><img src="/images/如何用hexo写一篇博客/博客载入.png" width="500"><p>去Categories页面和Tags页面检查是否载入</p><img src="/images/如何用hexo写一篇博客/Categories页面.png" width="500"><img src="/images/如何用hexo写一篇博客/Tags页面.png" width="500"><p>如上则完成，后续可在终端界面按下control+c关闭服务运行，然后输出命令进行git的同步<br><code>sudo hexo d</code></p><img src="/images/如何用hexo写一篇博客/Git同步.png" width="500"><p>出现Deploy done即为成功</p><h4 id="经过如上步骤，你已经可以完成一篇博客的发布了，快去试试吧"><a href="#经过如上步骤，你已经可以完成一篇博客的发布了，快去试试吧" class="headerlink" title="经过如上步骤，你已经可以完成一篇博客的发布了，快去试试吧"></a>经过如上步骤，你已经可以完成一篇博客的发布了，快去试试吧</h4>]]></content>
       
@@ -60,11 +58,11 @@
     
     
     <entry>
-      <title>无暇的追忆</title>
-      <link href="/2023/12/18/%E6%97%A0%E6%9A%87%E7%9A%84%E8%BF%BD%E5%BF%86/"/>
-      <url>/2023/12/18/%E6%97%A0%E6%9A%87%E7%9A%84%E8%BF%BD%E5%BF%86/</url>
+      <title>「春好桃夭」皮肤展示</title>
+      <link href="/2023/12/20/%E6%98%A5%E5%A5%BD%E6%A1%83%E5%A4%AD%E7%9A%AE%E8%82%A4%E5%B1%95%E7%A4%BA/"/>
+      <url>/2023/12/20/%E6%98%A5%E5%A5%BD%E6%A1%83%E5%A4%AD%E7%9A%AE%E8%82%A4%E5%B1%95%E7%A4%BA/</url>
       
-        <content type="html"><![CDATA[<details><summary>「似是故人来」</summary><p>明月高悬。<br>爱莉希雅轻轻踩在基地最高处的尖顶上,紫色的花朵在她手指间移动着,因月辉而明灭不定。<br>她没有让花朵中的崩坏能溢出,形成淡紫色的光芒,即便那样会更适合今夜的氛围。<br>“嗨,伊甸。”</p><p>“嗨,爱莉。<br>就算在这种时候,女子仍然手持金杯——她究竟是如往常一般在享受美酒的滋味,还是在借助它回忆过去的时光,恐怕就没人说得清了。</p><p>“梅博士召开的那场会议结束了?”</p><p>“结束了,他们没有发现任何异常。你的嫌疑被洗清了。”</p><p>“那就好。我其实不在意的。毕竟非常时期,每个人的神经都绷得很紧。我的过去是有些神秘,被怀疑也是正常的。”<br>“我这么善解人意,当然是选择原谅大家啦。<br>“不过······我倒是有些好奇,凯文有没有帮我说话?”</p><p>“无论是赞成还是否定,自始至终,他没有说过一句话。”</p></details><details><summary>「戏中人」</summary><p>“可是,爱莉希雅,我刚刚检测过你的体脂水平,比你上次来的时候高了一些,所以······”</p><p>“好了好了!真是的······你为什么要检测这种东西啊?梅把你留在这儿,可不是为了让你做这种事的。”</p><p>“重要的是感觉,不是数据。你明白吗?”</p><p>“······”</p><p>“好吧,对你来说,这可能是有点难。”<br>“不过嘛……普罗米修斯,你总会明白的。”</p><p>“明白什么?”</p><p>“嗯······明白大家为什么会笑,明白大家为什么会哭,明白大家会因为什么而开心,会因为什么而难过······”</p><p>“如果你想查阅与人类情绪的成因有关的资料,我可以帮你。”</p><p>“······”<br>“不用啦,普罗米修斯,我只是想来和你聊聊天而已。”<br>“大家都被梅叫去开会啦,就只剩下我一个人,挺无聊的。</p><p>“你的情绪波动很剧烈,爱莉希雅。”</p><p>“诶呀,普罗米修斯······梅没有告诉过你,不要随随便便检测别人的身体状况吗?会让我很害羞的。”<br>“不过嘛,情绪波动······可能是有那么一点啦。”<br>“被自己的好朋友怀疑,被大家排挤在外······这种事,不管是谁都会难过的,对不对?”<br>“我其实也就只是想找个人来陪我说说话而已啦。 ”</p><p>“······”</p><p>“哎,没想到······我也会有感到无能为力,只能亲眼看着这道裂痕逐渐扩大的一天呢。”<br>“普罗米修斯,你应该比我更明白才对吧?”<br>“现在的人类,已经不可能再经受住任何一场「內斗」了。”<br>“无论理由如何,无论过程如何······最终的结果都只会有一种。”</p><p>“人类这一族群,将会因此而自我毁灭。</p><p>“哎,是啊。”<br>“但这个时代的人们,他们都已经与崩坏奋战了那么······理应得到一个更好的结局,不是吗?”</p><p>“······”</p><p>“普罗米修斯,在你看来······只计算概率的话, 该怎么做才更有可能会让人类重新团结起来呢?”</p><p>“······”<br>“出现一个比律者更可怕的敌人,或者找到一种更严重的威胁。”</p><p>“哎呀,看来我们想到一块去了呢~你可真是越来越像我了,普罗米修斯。”<br>“一个强大到让幸存者们无暇争执,不得不团结在一起的敌人······这确实是最为有效的方法。”<br>“但同时,这却也是最难的方法。”<br>“毕竟谁也说不准,一个比律者还要麻烦的敌人······究竟是会让人类团结一致,还是会让人类更快走向灭亡呢?</p><p>“······”</p><p>“哎,我当然不愿意看到世界又次落入那样的境地啦。不过嘛,要是形势真的已经无法挽回了的话······”<br>少女抬起指尖,信手捻出了一朵粉紫色的水晶花。<br>“······故事的女主角,偶尔客串一下迷人的反派角色,也不错吧♪”</p></details>]]></content>
+        <content type="html"><![CDATA[<p align="center"><strong style="font-weight:900;">雪消寒轻风复暄，院落楼台草色添。</strong></p><p align="center"><strong style="font-weight:900;">休说好景无处寻，艳花高树展芳颜。</strong></p><p align="center"><strong style="font-weight:900;">粉瓣朵朵翻纸鸢，红蕊片片蝶争翩。</strong></p><p align="center"><strong style="font-weight:900;">夭夭灼灼凌日放，独占阳春百花羡。</strong></p><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/98220c9ece161b2c6a522d3cdcb16d41_1255599237451141703.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/e347686dd85488442ca0f334a0f0a565_339979997358675763.png?x-oss-process=image/auto-orient,0/interlace,1/format,png" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/c1d95d7bf5b96f2445a77139c1a851a6_8953374983576999683.png?x-oss-process=image/auto-orient,0/interlace,1/format,png" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/9ab0d51b434c332466bbe909b7af4007_3932018035792071915.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/3fd6120f7978a9968228d15238db098c_1714661045516468438.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/07c3fccc19d6f4cd3d3cc83128ee483a_6511832962736000384.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/61868511230a4b2c0fc62b1120f1eb25_6114499769304738958.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/36f67d613947ab1e313dad4f402b3b67_3690559708370597242.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/16/73565430/4177bc7525a05b1ad60124e3efb6a89c_4256976012258827175.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif" width="600"/>]]></content>
       
       
       <categories>
@@ -78,6 +76,10 @@
             
             <tag> 爱莉希雅 </tag>
             
+            <tag> 春好桃夭 </tag>
+            
+            <tag> 皮肤 </tag>
+            
         </tags>
       
     </entry>
@@ -86,8 +88,8 @@
     
     <entry>
       <title>「春好桃夭」设计揭秘</title>
-      <link href="/2023/12/18/%E3%80%8C%E6%98%A5%E5%A5%BD%E6%A1%83%E5%A4%AD%E3%80%8D%E8%AE%BE%E8%AE%A1%E6%8F%AD%E7%A7%98/"/>
-      <url>/2023/12/18/%E3%80%8C%E6%98%A5%E5%A5%BD%E6%A1%83%E5%A4%AD%E3%80%8D%E8%AE%BE%E8%AE%A1%E6%8F%AD%E7%A7%98/</url>
+      <link href="/2023/12/19/%E3%80%8C%E6%98%A5%E5%A5%BD%E6%A1%83%E5%A4%AD%E3%80%8D%E8%AE%BE%E8%AE%A1%E6%8F%AD%E7%A7%98/"/>
+      <url>/2023/12/19/%E3%80%8C%E6%98%A5%E5%A5%BD%E6%A1%83%E5%A4%AD%E3%80%8D%E8%AE%BE%E8%AE%A1%E6%8F%AD%E7%A7%98/</url>
       
         <content type="html"><![CDATA[<img src="https://upload-bbs.miyoushe.com/upload/2023/03/24/152039305/6298776b8314a1e98af67fc4962f2897_5948202641605807346.png?x-oss-process=image/auto-orient,0/interlace,1/format,png" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/24/152039305/2879ca254cd5d031a9b94494466cfe9d_3168889908183708937.png?x-oss-process=image/auto-orient,0/interlace,1/format,png" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/24/152039305/4bbcd99ab22f6f01ff6775fe05366d2a_5292900067423489902.png?x-oss-process=image/auto-orient,0/interlace,1/format,png" width="600"/><img src="https://upload-bbs.miyoushe.com/upload/2023/03/24/152039305/89d99c118d2d84db89f9fd3d17f1426b_5253702188117143647.png?x-oss-process=image/auto-orient,0/interlace,1/format,png" width="600"/>]]></content>
       
@@ -103,9 +105,34 @@
             
             <tag> 爱莉希雅 </tag>
             
+            <tag> 春好桃夭 </tag>
+            
             <tag> 皮肤 </tag>
             
-            <tag> 春好桃夭 </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「事件-爱莉希雅」</title>
+      <link href="/2023/12/18/%E3%80%8C%E4%BA%8B%E4%BB%B6-%E7%88%B1%E8%8E%89%E5%B8%8C%E9%9B%85%E3%80%8D/"/>
+      <url>/2023/12/18/%E3%80%8C%E4%BA%8B%E4%BB%B6-%E7%88%B1%E8%8E%89%E5%B8%8C%E9%9B%85%E3%80%8D/</url>
+      
+        <content type="html"><![CDATA[<details><summary>关于位次 · 其一</summary><p>爱莉希雅:曾经有人这么说我——「你根本不是当 领袖的料」。</p><p>芽衣:······你想对我说的就是这个?那他或许说的没错。</p><p>爱莉希雅:其实我也这么觉得。</p><p>芽衣: ······我没想到你会承认。</p><p>爱莉希雅:毕竟我向来不习惯太严肃的场合,也不喜欢过于拘谨的人际关系。</p><p>爱莉希雅:所以和我相处时,你可以再放松些,亲昵一点也没有关系。</p><p>芽衣:但你还是成为了第二位。</p><p>爱莉希雅:因为「副首领」这个光彩照人的名号, 我也没想过要让给别人呀。</p></details><details><summary>关于位次 · 其二</summary><p>芽衣：很难想象你会满足于「副首领」。</p><p>爱莉希雅：就算不甘心也没办法，「第一位」当然得是凯文，不是吗？</p><p>芽衣：位次不是由你决定的吗？只要你想，他也可以是第二位，甚至是末席。</p><p>爱莉希雅：你好懂我。</p><p>芽衣：毕竟你一点都不想隐瞒。</p><p>爱莉希雅：嗯，我确实这么做了。在逐火英桀成立之初，立于这十三人顶点的，不是凯文，也不是别人，正是我。</p><p>芽衣：但如今他取代了你，发生了什么？</p><p>爱莉希雅：不告诉你♪</p><p>芽衣：······</p><p>爱莉希雅：哎呀，也不是什么不能说的秘密，只是我还想多欣赏一会儿你好奇的表情。</p><p>爱莉希雅：想知道的话，不妨再和我拉近一点距离呢？</p></details><details><summary>关于位次 · 其三</summary><p>爱莉希雅:好啦,上次答应过,会告诉你一二位对换的真相。</p><p>爱莉希雅:最初的「第一位」的确是我,凯文则是我之下的二席。倒没什么特别的用意,只是觉得这样很有趣。</p><p>芽衣:很像你的作风。</p><p>爱莉希雅:在会议上,我向所有人宣布了这件事,满心期待着大家下一刻的目光。她们会露出什么样的表情呢?我充满好奇。</p><p>芽衣:然后呢?</p><p>爱莉希雅:没有然后了,什么也没发生。</p><p>爱莉希雅:可能是我太低估自己的人气了,竟然没人对「爱莉希雅是第一位」这件事抱有质疑。</p><p>芽衣:哦······那你一定很失望吧。</p><p>爱莉希雅:是呀!这也算是我人生中少有的失策了。但爱莉希雅绝不认输——我还留了一招后手。</p><p>爱莉希雅:一道迅速且完备的手续过后,我当天就光荣卸任,把第一的位置丢给凯文啦。</p><p>芽衣:这下他总该说点什么了吧?</p><p>爱莉希雅:唔,还是没有。</p><p>爱莉希雅:有时,我觉得凯文并不像我们想的那样木讷、单纯。他其实很懂如何撩拨一个人的心弦,令她坐立不安、心急如焚。</p><p>爱莉希雅:他明白人心中最柔软细腻的部分,不可言说的无名地带——他会毫不留情地攻击那片脆弱的小天地。</p><p>芽衣:······</p><p>芽衣:他应该只是习惯了,就像我一样。</p></details><details><summary>关于自身 · 其一</summary><p>芽衣:你们留下记忆体的时间,似乎并不一致。</p><p>爱莉希雅:其实最开始是一致的,只是后来定期更新记忆的维护工作······不是每个人都能完成。</p><p>爱莉希雅:这也算是记忆体之间心照不宣的规矩吧。若非英桀们主动开口,不要谈起「未来」的话题哦。</p><p>芽衣:「未来」······你指的,应该是关于「生死」的话题吧。</p><p>爱莉希雅:你明白就好。</p><p>爱莉希雅:但如果真的好奇到按捺不住,也不是不能问。只不过,并不是每个人都愿意讨论这件事。</p><p>芽衣:那你呢?</p><p>爱莉希雅:我看起来像是那种会出卖朋友的人吗?</p><p>爱莉希雅:但如果你想问的是我的结局,我当然很乐意告诉你。我们之间有什么不能说的呢?</p><p>芽衣:你知道未来的自己身在何方?</p><p>爱莉希雅:在步入此地之前,你有听说过任何关于我的事吗?</p><p>芽衣:······没有。</p><p>少女嫣然一笑。</p><p>爱莉希雅:那你已经知道答案了,不是吗?</p></details><details><summary>关于芽衣 · 其一</summary><p>爱莉希雅:总是我在说自己的事,不太好。我也想多了解你一些。</p><p>爱莉希雅:我一直很在意,那对角会给你的生活带来麻烦吗?</p><p>芽衣:我不明白你的意思。</p><p>爱莉希雅:比如说,你这么高挑,出入房间时,它会撞到门吗?如果撞到了,会不会疼?</p><p>爱莉希雅:还有,你是不是没法戴帽子,也不能跟在别人后面上楼梯?对了,你洗完澡是怎么擦头发的,吹干时刘海会不会翘成一团?</p><p>芽衣:······它不是一直存在的,只有在我使用律者权能的时候才会显现。</p><p>爱莉希雅:哦,这样啊。我只是想说,这对角很漂亮,很适合你。</p><p>爱莉希雅:······</p><p>爱莉希雅:可以让我摸摸吗?</p><p>芽衣:不可以。</p><p>爱莉希雅:······</p><p>爱莉希雅:作为交换,也可以让你摸一下我的耳朵哦?</p><p>芽衣:不必了。</p></details><details><summary>无瑕的追忆 · 其十</summary><p>爱莉希雅:芽衣芽衣,看这里!</p><p>爱莉希雅:嗯······就站在那儿,不要动哦。</p><p>芽衣:······?</p><p>粉发的少女一反常态,没有更近一步,只是不停地看向这里,不时低下头在纸上裁剪涂画。</p><p>爱莉希雅:喔!做好啦!</p><p>芽衣:这是······做成我的样子的,纸模小人?</p><p>爱莉希雅:嗯!接下来就是最后一步,把芽衣的小人放进这本乐土立体书里······啊······</p><p>芽衣:怎么了?</p><p>爱莉希雅:唔,还是算了吧。不能对芽衣做这种事呢。</p><p>爱莉希雅:芽衣······终究是要离开乐土的。毕竟你和我们不一样嘛。</p><p>芽衣还是第一次在爱莉希雅脸上看见这样的神情——温柔、甜美,却略带寂寞的微笑。</p><p>但这抹神情转瞬即逝。眨眼间,少女已恢复了平日的神采。</p><p>爱莉希雅:既然如此,这本书就送给芽衣吧!少女的心意,可要心怀感激地收下哟。</p><p>爱莉希雅:如何如何?我可是拜托了好多人和我一起做这个的!</p><p>芽衣:从封底的制作人员表里来看,确实是很多人呢······</p><p>芽衣:倒是的确很精致,每一页的情境都很还原,甚至能唤起鲜明的回忆······等等,爱莉希雅,你该不会从一开始就准备把这本书······</p><p>爱莉希雅:嗯哼♪</p><p>芽衣:——谢谢,我会好好珍惜的。</p><p>爱莉希雅:哇,这可真是······这么直率的芽衣好难得哦!</p><p>爱莉希雅:既然如此,能不能再让我摸摸你的······哎呀,开玩笑的,不要跑嘛♪</p></details><details><summary>「似是故人来」</summary><p>明月高悬。<br>爱莉希雅轻轻踩在基地最高处的尖顶上,紫色的花朵在她手指间移动着,因月辉而明灭不定。<br>她没有让花朵中的崩坏能溢出,形成淡紫色的光芒,即便那样会更适合今夜的氛围。<br>“嗨,伊甸。”</p><p>“嗨,爱莉。<br>就算在这种时候,女子仍然手持金杯——她究竟是如往常一般在享受美酒的滋味,还是在借助它回忆过去的时光,恐怕就没人说得清了。</p><p>“梅博士召开的那场会议结束了?”</p><p>“结束了,他们没有发现任何异常。你的嫌疑被洗清了。”</p><p>“那就好。我其实不在意的。毕竟非常时期,每个人的神经都绷得很紧。我的过去是有些神秘,被怀疑也是正常的。”<br>“我这么善解人意,当然是选择原谅大家啦。<br>“不过······我倒是有些好奇,凯文有没有帮我说话?”</p><p>“无论是赞成还是否定,自始至终,他没有说过一句话。”</p></details><details><summary>「戏中人」</summary><p>“可是,爱莉希雅,我刚刚检测过你的体脂水平,比你上次来的时候高了一些,所以······”</p><p>“好了好了!真是的······你为什么要检测这种东西啊?梅把你留在这儿,可不是为了让你做这种事的。”</p><p>“重要的是感觉,不是数据。你明白吗?”</p><p>“······”</p><p>“好吧,对你来说,这可能是有点难。”<br>“不过嘛……普罗米修斯,你总会明白的。”</p><p>“明白什么?”</p><p>“嗯······明白大家为什么会笑,明白大家为什么会哭,明白大家会因为什么而开心,会因为什么而难过······”</p><p>“如果你想查阅与人类情绪的成因有关的资料,我可以帮你。”</p><p>“······”<br>“不用啦,普罗米修斯,我只是想来和你聊聊天而已。”<br>“大家都被梅叫去开会啦,就只剩下我一个人,挺无聊的。</p><p>“你的情绪波动很剧烈,爱莉希雅。”</p><p>“诶呀,普罗米修斯······梅没有告诉过你,不要随随便便检测别人的身体状况吗?会让我很害羞的。”<br>“不过嘛,情绪波动······可能是有那么一点啦。”<br>“被自己的好朋友怀疑,被大家排挤在外······这种事,不管是谁都会难过的,对不对?”<br>“我其实也就只是想找个人来陪我说说话而已啦。 ”</p><p>“······”</p><p>“哎,没想到······我也会有感到无能为力,只能亲眼看着这道裂痕逐渐扩大的一天呢。”<br>“普罗米修斯,你应该比我更明白才对吧?”<br>“现在的人类,已经不可能再经受住任何一场「內斗」了。”<br>“无论理由如何,无论过程如何······最终的结果都只会有一种。”</p><p>“人类这一族群,将会因此而自我毁灭。</p><p>“哎,是啊。”<br>“但这个时代的人们,他们都已经与崩坏奋战了那么······理应得到一个更好的结局,不是吗?”</p><p>“······”</p><p>“普罗米修斯,在你看来······只计算概率的话, 该怎么做才更有可能会让人类重新团结起来呢?”</p><p>“······”<br>“出现一个比律者更可怕的敌人,或者找到一种更严重的威胁。”</p><p>“哎呀,看来我们想到一块去了呢~你可真是越来越像我了,普罗米修斯。”<br>“一个强大到让幸存者们无暇争执,不得不团结在一起的敌人······这确实是最为有效的方法。”<br>“但同时,这却也是最难的方法。”<br>“毕竟谁也说不准,一个比律者还要麻烦的敌人······究竟是会让人类团结一致,还是会让人类更快走向灭亡呢?</p><p>“······”</p><p>“哎,我当然不愿意看到世界又次落入那样的境地啦。不过嘛,要是形势真的已经无法挽回了的话······”<br>少女抬起指尖,信手捻出了一朵粉紫色的水晶花。<br>“······故事的女主角,偶尔客串一下迷人的反派角色,也不错吧♪”</p></details>]]></content>
+      
+      
+      <categories>
+          
+          <category> 爱莉希雅♪ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 爱莉希雅 </tag>
             
         </tags>
       
@@ -115,8 +142,8 @@
     
     <entry>
       <title>「夏日妖精小姐♪」设计揭秘</title>
-      <link href="/2023/12/18/%E3%80%8C%E5%A4%8F%E6%97%A5%E5%A6%96%E7%B2%BE%E5%B0%8F%E5%A7%90%E2%99%AA%E3%80%8D%E8%AE%BE%E8%AE%A1%E6%8F%AD%E7%A7%98/"/>
-      <url>/2023/12/18/%E3%80%8C%E5%A4%8F%E6%97%A5%E5%A6%96%E7%B2%BE%E5%B0%8F%E5%A7%90%E2%99%AA%E3%80%8D%E8%AE%BE%E8%AE%A1%E6%8F%AD%E7%A7%98/</url>
+      <link href="/2023/12/17/%E3%80%8C%E5%A4%8F%E6%97%A5%E5%A6%96%E7%B2%BE%E5%B0%8F%E5%A7%90%E2%99%AA%E3%80%8D%E8%AE%BE%E8%AE%A1%E6%8F%AD%E7%A7%98/"/>
+      <url>/2023/12/17/%E3%80%8C%E5%A4%8F%E6%97%A5%E5%A6%96%E7%B2%BE%E5%B0%8F%E5%A7%90%E2%99%AA%E3%80%8D%E8%AE%BE%E8%AE%A1%E6%8F%AD%E7%A7%98/</url>
       
         <content type="html"><![CDATA[<img src="https://act-upload.mihoyo.com/bh3-wiki/2023/06/20/75216984/f48463f928f57e601f7d77c904d0ee4c_6809710804100269972.png" width="600"/><img src="https://act-upload.mihoyo.com/bh3-wiki/2023/06/20/75216984/73a017dab1ae2ce4bd7a1760dffc886b_3068937813058997677.png" width="600"/>]]></content>
       
@@ -133,31 +160,6 @@
             <tag> 爱莉希雅 </tag>
             
             <tag> 皮肤 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>「事件-爱莉希雅」</title>
-      <link href="/2023/12/18/%E3%80%8C%E4%BA%8B%E4%BB%B6-%E7%88%B1%E8%8E%89%E5%B8%8C%E9%9B%85%E3%80%8D/"/>
-      <url>/2023/12/18/%E3%80%8C%E4%BA%8B%E4%BB%B6-%E7%88%B1%E8%8E%89%E5%B8%8C%E9%9B%85%E3%80%8D/</url>
-      
-        <content type="html"><![CDATA[<details><summary>关于位次 · 其一</summary><p>爱莉希雅:曾经有人这么说我——「你根本不是当 领袖的料」。</p><p>芽衣:······你想对我说的就是这个?那他或许说的没错。</p><p>爱莉希雅:其实我也这么觉得。</p><p>芽衣: ······我没想到你会承认。</p><p>爱莉希雅:毕竟我向来不习惯太严肃的场合,也不喜欢过于拘谨的人际关系。</p><p>爱莉希雅:所以和我相处时,你可以再放松些,亲昵一点也没有关系。</p><p>芽衣:但你还是成为了第二位。</p><p>爱莉希雅:因为「副首领」这个光彩照人的名号, 我也没想过要让给别人呀。</p></details><details><summary>关于位次 · 其二</summary><p>芽衣：很难想象你会满足于「副首领」。</p><p>爱莉希雅：就算不甘心也没办法，「第一位」当然得是凯文，不是吗？</p><p>芽衣：位次不是由你决定的吗？只要你想，他也可以是第二位，甚至是末席。</p><p>爱莉希雅：你好懂我。</p><p>芽衣：毕竟你一点都不想隐瞒。</p><p>爱莉希雅：嗯，我确实这么做了。在逐火英桀成立之初，立于这十三人顶点的，不是凯文，也不是别人，正是我。</p><p>芽衣：但如今他取代了你，发生了什么？</p><p>爱莉希雅：不告诉你♪</p><p>芽衣：······</p><p>爱莉希雅：哎呀，也不是什么不能说的秘密，只是我还想多欣赏一会儿你好奇的表情。</p><p>爱莉希雅：想知道的话，不妨再和我拉近一点距离呢？</p></details><details><summary>关于位次 · 其三</summary><p>爱莉希雅:好啦,上次答应过,会告诉你一二位对换的真相。</p><p>爱莉希雅:最初的「第一位」的确是我,凯文则是我之下的二席。倒没什么特别的用意,只是觉得这样很有趣。</p><p>芽衣:很像你的作风。</p><p>爱莉希雅:在会议上,我向所有人宣布了这件事,满心期待着大家下一刻的目光。她们会露出什么样的表情呢?我充满好奇。</p><p>芽衣:然后呢?</p><p>爱莉希雅:没有然后了,什么也没发生。</p><p>爱莉希雅:可能是我太低估自己的人气了,竟然没人对「爱莉希雅是第一位」这件事抱有质疑。</p><p>芽衣:哦······那你一定很失望吧。</p><p>爱莉希雅:是呀!这也算是我人生中少有的失策了。但爱莉希雅绝不认输——我还留了一招后手。</p><p>爱莉希雅:一道迅速且完备的手续过后,我当天就光荣卸任,把第一的位置丢给凯文啦。</p><p>芽衣:这下他总该说点什么了吧?</p><p>爱莉希雅:唔,还是没有。</p><p>爱莉希雅:有时,我觉得凯文并不像我们想的那样木讷、单纯。他其实很懂如何撩拨一个人的心弦,令她坐立不安、心急如焚。</p><p>爱莉希雅:他明白人心中最柔软细腻的部分,不可言说的无名地带——他会毫不留情地攻击那片脆弱的小天地。</p><p>芽衣:······</p><p>芽衣:他应该只是习惯了,就像我一样。</p></details><details><summary>关于自身 · 其一</summary><p>芽衣:你们留下记忆体的时间,似乎并不一致。</p><p>爱莉希雅:其实最开始是一致的,只是后来定期更新记忆的维护工作······不是每个人都能完成。</p><p>爱莉希雅:这也算是记忆体之间心照不宣的规矩吧。若非英桀们主动开口,不要谈起「未来」的话题哦。</p><p>芽衣:「未来」······你指的,应该是关于「生死」的话题吧。</p><p>爱莉希雅:你明白就好。</p><p>爱莉希雅:但如果真的好奇到按捺不住,也不是不能问。只不过,并不是每个人都愿意讨论这件事。</p><p>芽衣:那你呢?</p><p>爱莉希雅:我看起来像是那种会出卖朋友的人吗?</p><p>爱莉希雅:但如果你想问的是我的结局,我当然很乐意告诉你。我们之间有什么不能说的呢?</p><p>芽衣:你知道未来的自己身在何方?</p><p>爱莉希雅:在步入此地之前,你有听说过任何关于我的事吗?</p><p>芽衣:······没有。</p><p>少女嫣然一笑。</p><p>爱莉希雅:那你已经知道答案了,不是吗?</p></details><details><summary>关于芽衣 · 其一</summary><p>爱莉希雅:总是我在说自己的事,不太好。我也想多了解你一些。</p><p>爱莉希雅:我一直很在意,那对角会给你的生活带来麻烦吗?</p><p>芽衣:我不明白你的意思。</p><p>爱莉希雅:比如说,你这么高挑,出入房间时,它会撞到门吗?如果撞到了,会不会疼?</p><p>爱莉希雅:还有,你是不是没法戴帽子,也不能跟在别人后面上楼梯?对了,你洗完澡是怎么擦头发的,吹干时刘海会不会翘成一团?</p><p>芽衣:······它不是一直存在的,只有在我使用律者权能的时候才会显现。</p><p>爱莉希雅:哦,这样啊。我只是想说,这对角很漂亮,很适合你。</p><p>爱莉希雅:······</p><p>爱莉希雅:可以让我摸摸吗?</p><p>芽衣:不可以。</p><p>爱莉希雅:······</p><p>爱莉希雅:作为交换,也可以让你摸一下我的耳朵哦?</p><p>芽衣:不必了。</p></details><details><summary>无瑕的追忆 · 其十</summary><p>爱莉希雅:芽衣芽衣,看这里!</p><p>爱莉希雅:嗯······就站在那儿,不要动哦。</p><p>芽衣:······?</p><p>粉发的少女一反常态,没有更近一步,只是不停地看向这里,不时低下头在纸上裁剪涂画。</p><p>爱莉希雅:喔!做好啦!</p><p>芽衣:这是······做成我的样子的,纸模小人?</p><p>爱莉希雅:嗯!接下来就是最后一步,把芽衣的小人放进这本乐土立体书里······啊······</p><p>芽衣:怎么了?</p><p>爱莉希雅:唔,还是算了吧。不能对芽衣做这种事呢。</p><p>爱莉希雅:芽衣······终究是要离开乐土的。毕竟你和我们不一样嘛。</p><p>芽衣还是第一次在爱莉希雅脸上看见这样的神情——温柔、甜美,却略带寂寞的微笑。</p><p>但这抹神情转瞬即逝。眨眼间,少女已恢复了平日的神采。</p><p>爱莉希雅:既然如此,这本书就送给芽衣吧!少女的心意,可要心怀感激地收下哟。</p><p>爱莉希雅:如何如何?我可是拜托了好多人和我一起做这个的!</p><p>芽衣:从封底的制作人员表里来看,确实是很多人呢······</p><p>芽衣:倒是的确很精致,每一页的情境都很还原,甚至能唤起鲜明的回忆······等等,爱莉希雅,你该不会从一开始就准备把这本书······</p><p>爱莉希雅:嗯哼♪</p><p>芽衣:——谢谢,我会好好珍惜的。</p><p>爱莉希雅:哇,这可真是······这么直率的芽衣好难得哦!</p><p>爱莉希雅:既然如此,能不能再让我摸摸你的······哎呀,开玩笑的,不要跑嘛♪</p></details>]]></content>
-      
-      
-      <categories>
-          
-          <category> 爱莉希雅♪ </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 爱莉希雅 </tag>
             
         </tags>
       
